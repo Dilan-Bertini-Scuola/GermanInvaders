@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1638553693 source:c:\users\spoko\desktop\germaninvaders\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
+1575918578 source:c:\users\spoko\desktop\lol\germaninvaders\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
